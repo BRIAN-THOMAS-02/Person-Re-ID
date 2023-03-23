@@ -4,3 +4,6 @@ timm >= 0.6.0
 scipy
 efficientnet_pytorch
 pytorch_metric_learning
+matplotlib
+glob
+streamlit
